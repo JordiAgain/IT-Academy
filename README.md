@@ -1,4 +1,4 @@
-Bases de Dades,IT Academy,Data Science.
+Bases de Dades, IT Academy, Data Science.
 
 Sprint 1, tasca 1.
 
